@@ -1,4 +1,3 @@
-layout_spectrum: 0.5667335689067841
 typography_spectrum: 0.24651296576485038
 color:
   brandStrength: 0.6543635644484311
@@ -11,8 +10,10 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-name: Simon Harrison
+layout_spectrum: 0.5667335689067841
 author:
   name: Simon Harrison
   email: SimonTheBroker@aol.com
   url: www.SimonTheBroker.com
+name: Simon Harrison
+title: SimonTheBroker
